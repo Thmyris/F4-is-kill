@@ -5,4 +5,4 @@ This autohotkey script will change your F4 key's behaviour to mimic an ALT+F4 ke
 
 Persistent Installation (Windows):
 - Just drag and drop the .exe file into the "Startup Folder (allusers).lnk" shortcut. This will effect all user accounts.
-- Alternatively, you can go to "C:\Users\YOURUSERIDHERE\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup" and drop the .exe in there. This will effect only your user account.
+- Alternatively, you can go to "C:\Users\YOURUSERIDHERE\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup" and drop the .exe in there. This will only effect your user account.
