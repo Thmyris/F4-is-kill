@@ -1,2 +1,2 @@
 # F4-is-kill
-Tired of pressing ALT+F4? Press F4 only instead!
+F4 is literally the most useless key on the keyboard. Make that useless F4 execute one of the most powerful key combos in your computer ever, ALT+F4!
