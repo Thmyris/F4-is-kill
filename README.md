@@ -6,3 +6,6 @@ This autohotkey script will mimic an ALT+F4 key press when you press F4. This is
 Persistent Installation (Windows):
 - Just drag and drop the .exe file into the "Startup Folder (allusers).lnk" shortcut. This will effect all user accounts.
 - Alternatively, you can go to "C:\Users\YOURUSERIDHERE\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup" and drop the .exe in there. This will only effect your user account.
+
+#### Issues
+The systray icon is not hidden.
