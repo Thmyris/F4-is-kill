@@ -8,4 +8,5 @@ Persistent Installation (Windows):
 - Alternatively, you can go to "C:\Users\YOURUSERIDHERE\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup" and drop the .exe in there. This will only effect your user account.
 
 #### Issues
-The systray icon is not hidden.
+- The systray icon is not hidden.
+- May not work on exclusive fullscreen applications.
