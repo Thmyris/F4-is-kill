@@ -25,5 +25,5 @@ This autohotkey script will mimic an ALT+F4 key press when you press F4. This is
 #### Issues
 
 * Systray icon is not hidden.
-* May not work on some exclusive fullscreen applications(like %5).
+* May not work on some exclusive fullscreen applications(like 1%).
 
